@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="DOZIE2.png" width="30px">
+<img src="DOZIE2.png">
 <!--
 **doziestar/doziestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
