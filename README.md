@@ -1,7 +1,4 @@
 <img src="DOZIE2.png">
-### Hi there 👋
-[![Dozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=doziestar)](https://github.com/doziestar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doziestar&layout=compact)](https://github.com/doziestar/github-readme-stats)
 <a href="https://github.com/doziestar/rescue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doziestar&repo=rescue" />
 </a>
@@ -9,7 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doziestar&repo=somtra" />
 </a>
 
-
+!Dozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&theme=radical)
+### Hi there 👋
 <!--
 **doziestar/doziestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
