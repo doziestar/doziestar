@@ -2,8 +2,8 @@
 ### Hi there 👋
 [![Dozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=doziestar)](https://github.com/doziestar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doziestar&layout=compact)](https://github.com/doziestar/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/doziestar/rescue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doziestar&repo=rescue" />
 </a>
 <a href="https://github.com/doziestar/somtra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doziestar&repo=somtra" />
