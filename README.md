@@ -10,6 +10,7 @@
 🤔 I’m looking for help with Swift
 
 💬 Ask me about Python, Django, Flask, Api, AI
+<figure><embed src="https://wakatime.com/share/@doziestar/e9c9eb09-7830-4b0b-bc1c-2305549ed687.svg"></embed></figure>
 <!--
 **doziestar/doziestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-profile-trophy.vercel.app/?username=doziestar&row=2&column=3
