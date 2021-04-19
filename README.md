@@ -1,5 +1,4 @@
 <img src="DOZIE2.png">
-[![wakatime](https://wakatime.com/badge/github/doziestar/bakdash.svg)]
 
 ### Hi there. I respect every developer who always strive to be the best. I always learn what is needed and deliver only extra-ordinary result👋
 
