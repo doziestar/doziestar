@@ -42,7 +42,7 @@
 <a href="https://fb.com/dozie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="dozie7" height="30" width="40" /></a>
 <a href="https://instagram.com/dozie_cnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="dozie_cnc" height="30" width="40" /></a>
 <a href="https://medium.com/@doziestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@doziestar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chidosiky2015@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="chidosiky2015@gmail.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/chidosiky2015@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="chidosiky2015@gmail.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/doziestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="doziestar" height="30" width="40" /></a>
 </p>
 
@@ -54,9 +54,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact" alt="doziestar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en" alt="doziestar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en" alt="doziestar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&" alt="doziestar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&" alt="doziestar" /></p>
 
 <figure><embed src="https://wakatime.com/share/@doziestar/e9c9eb09-7830-4b0b-bc1c-2305549ed687.svg"></embed></figure>
 <!--
