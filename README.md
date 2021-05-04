@@ -59,7 +59,8 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&" alt="doziestar" /></p>
 
 <figure><embed src="https://wakatime.com/share/@doziestar/e9c9eb09-7830-4b0b-bc1c-2305549ed687.svg"></embed></figure>
-<!--
+<img src="https://github.com/doziestar/doziestar/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 **doziestar/doziestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github-profile-trophy.vercel.app/?username=doziestar&row=2&column=3
 🔭 I’m currently working on https://github.com/doziestar/rescue
