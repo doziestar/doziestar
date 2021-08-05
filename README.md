@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doziestar&label=Profile%20views&color=0e75b6&style=flat" alt="doziestar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chidozieraph" target="blank"><img src="https://img.shields.io/twitter/follow/chidozieraph?logo=twitter&style=for-the-badge" alt="chidozieraph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dozie_cnc" target="blank"><img src="https://img.shields.io/twitter/follow/dozie_cnc?logo=twitter&style=for-the-badge" alt="dozie_cnc" /></a> </p>
 
 - 🔭 I’m currently working on [Rescue](https://github.com/doziestar/rescue)
 
