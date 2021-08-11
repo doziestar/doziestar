@@ -1,4 +1,4 @@
-<img src="DOZIE2.png">
+<img src="dozie3.png">
 
 ### Hi there. I respect every developer who always strive to be the best. I always learn what is needed and deliver only extra-ordinary result👋
 
