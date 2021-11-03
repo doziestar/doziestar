@@ -1,11 +1,11 @@
-<img src="dozie3.png">
+<img src="dozie3.png?&border_radius=15">
 
 ### Hi there. I respect every developer who always strive to be the best. I always learn what is needed and deliver only extra-ordinary result👋
 
 <h1 align="center">Hi 👋, I'm Chidozie C. Okafor</h1>
 <h3 align="center">A passionate backend and blockchain developer based in Nigeria</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=doziestar&label=Profile%20views&color=0e75b6&style=flat" alt="doziestar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=doziestar&label=Profile%20views&color=0e75b6&style=flat&border_radius=15" alt="doziestar" /> </p>
 
 <p align="center"> <a href="https://twitter.com/dozie_cnc" target="blank"><img src="https://img.shields.io/twitter/follow/dozie_cnc?logo=twitter&style=for-the-badge" alt="dozie_cnc" /></a> </p>
 
@@ -32,22 +32,34 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://dev.to/doziestar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="doziestar" height="30" width="40" /></a>
+<a href="https://twitter.com/dozie_cnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dozie_cnc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dozie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dozie7" height="30" width="40" /></a>
+<a href="https://fb.com/dozie7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dozie7" height="30" width="40" /></a>
+<a href="https://instagram.com/dozie_cnc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dozie_cnc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/doziestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="doziestar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/doziestar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doziestar" height="30" width="40" /></a>
+<a href="/https://blog.hackwithpython.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.hackwithpython.com/rss.xml" height="30" width="40" /></a>
+</p>
 
 <h3 align="center">My Favourite Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>    <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/doziestar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="doziestar" /></a>
+<p align="center"><a href="https://www.buymeacoffee.com/doziestar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?&border_radius=15" height="50" width="200" alt="doziestar" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact&theme=dark" alt="doziestar" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="doziestar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&hide=html&langs_count=6&cache_seconds=1800&show_icons=true&locale=en&theme=dracula" alt="doziestar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&layout=compact&border_radius=15" alt="doziestar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&layout=compact" alt="doziestar" ><p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en&theme=dracula&border_radius=15" height="200" width="500" alt="doziestar" /></p>
+
+
 
 <!--START_SECTION:waka-->
 
-[![Dozie,s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doziestar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Dozie,s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doziestar&theme=dracula&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
