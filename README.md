@@ -57,9 +57,3 @@
 
 
 
-<!--START_SECTION:waka-->
-
-[![Dozie,s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doziestar&theme=dracula&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--END_SECTION:waka-->
-
