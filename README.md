@@ -2,7 +2,7 @@
 
 ### Hi there. I respect every developer who always strive to be the best. I always learn what is needed and deliver only extra-ordinary result👋
 
-<h1 align="center">Hi 👋, I'm Chidozie C. Okafor</h1>
+<h1 align="center">Hi 👋, I'm Dozie</h1>
 <h3 align="center">A passionate backend and blockchain developer based in Nigeria</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doziestar&label=Profile%20views&color=0e75b6&style=flat&border_radius=15" alt="doziestar" /> </p>
