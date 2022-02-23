@@ -49,7 +49,7 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/doziestar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?&border_radius=15" height="50" width="200" alt="doziestar" /></a></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact&theme=dark&show=typescript,javascript&hide=html,css,scss&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="doziestar" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="doziestar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&layout=compact&border_radius=15" alt="doziestar" /></p>
 
