@@ -27,10 +27,6 @@
 
 - ⚡ Fun fact **I love animals**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/doziestar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="doziestar" height="30" width="40" /></a>
