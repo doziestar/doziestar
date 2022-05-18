@@ -49,7 +49,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&layout=compact&border_radius=15" alt="doziestar" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en&theme=dracula&border_radius=15" height="200" width="500" alt="doziestar" /></p>
+<p align="right"><img align="center" src="https://dozie-stat.herokuapp.com/api?username=doziestar&show_icons=true&locale=en&theme=dracula&border_radius=15" height="200" width="500" alt="doziestar" /></p>
 
 
 
