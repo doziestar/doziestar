@@ -9,23 +9,17 @@
 
 <p align="center"> <a href="https://twitter.com/dozie_cnc" target="blank"><img src="https://img.shields.io/twitter/follow/dozie_cnc?logo=twitter&style=for-the-badge" alt="dozie_cnc" /></a> </p>
 
-- 🔭 I’m currently working on [Rescue](https://github.com/doziestar/rescue)
-
-- 🌱 I’m currently learning **Golang and Typescript**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [Rescue](https://github.com/doziestar/rescue)
 
-- 🤝 I’m looking for help with [Rescue](https://github.com/doziestar/rescue)
-
 - 👨‍💻 All of my projects are available at [doziesiky.com](doziesiky.com)
 
-- 💬 Ask me about **Python, Flask, Django, Javascript, React, FastAPI, Node, Expressjs**
+- 💬 Ask me about **Python, Django, Javascript, Golang, Flutter, FastAPI, Node, Expressjs**
 
 - 📫 How to reach me **chidosiky2015@gmail.com**
 
 - 📄 Know about my experiences [github.com/doziestar](github.com/doziestar)
-
-- ⚡ Fun fact **I love animals**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
