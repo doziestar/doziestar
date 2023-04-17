@@ -1,6 +1,6 @@
 <img src="dozie3.png?&border_radius=15">
 
-### Hi there. I respect every developer who always strive to be the best. I always learn what is needed and deliver only extra-ordinary result👋
+<p align="center">Prepare for liftoff as you explore the cosmos of my coding creations and dive into a galaxy of groundbreaking projects! Get ready to be starstruck as you witness the fusion of innovation and passion, powering up your developer journey. Let's embark on this interstellar adventure together, and may the source be with you! ✨🚀👩‍💻👨‍💻✨ </p>
 
 <h1 align="center">Hi 👋, I'm Dozie</h1>
 <h3 align="center">A passionate backend and blockchain developer based in Nigeria</h3>
