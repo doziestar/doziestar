@@ -41,9 +41,9 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doziestar&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="doziestar" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&include_all_commits=true&cache_seconds=1800&layout=compact&border_radius=15" alt="doziestar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doziestar&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&layout=compact&border_radius=15" alt="doziestar" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en&theme=dracula&include_all_commits=true&cache_seconds=1800&border_radius=15" height="200" width="500" alt="doziestar" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doziestar&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800&border_radius=15" height="200" width="500" alt="doziestar" /></p>
 
 
 
