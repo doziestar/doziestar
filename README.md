@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Rescue](https://github.com/doziestar/rescue)
+- 👯 I’m looking to collaborate on [Rescue](https://github.com/doziestar/server_forge)
 
-- 👨‍💻 All of my projects are available at [doziesiky.com](doziesiky.com)
-
-- 💬 Ask me about **Python, Django, Javascript, Golang, Flutter, FastAPI, Node, Expressjs**
+- 💬 Ask me about ** Rust, Python, Django, Javascript, Golang, FastAPI, Node, Expressjs**
 
 - 📫 How to reach me **chidosiky2015@gmail.com**
 
