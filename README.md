@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Rescue](https://github.com/doziestar/server_forge)
+- 👯 I’m looking to collaborate on [serverForge](https://github.com/doziestar/server_forge)
 
 - 💬 Ask me about ** Rust, Python, Django, Javascript, Golang, FastAPI, Node, Expressjs**
 
