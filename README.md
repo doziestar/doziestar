@@ -9,16 +9,6 @@
 
 <p align="center"> <a href="https://twitter.com/dozie_cnc" target="blank"><img src="https://img.shields.io/twitter/follow/dozie_cnc?logo=twitter&style=for-the-badge" alt="dozie_cnc" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
-
-- 👯 I’m looking to collaborate on [serverForge](https://github.com/doziestar/server_forge)
-
-- 💬 Ask me about ** Rust, Python, Django, Javascript, Golang, FastAPI, Node, Expressjs**
-
-- 📫 How to reach me **chidosiky2015@gmail.com**
-
-- 📄 Know about my experiences [github.com/doziestar](github.com/doziestar)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/doziestar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="doziestar" height="30" width="40" /></a>
