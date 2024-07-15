@@ -3,7 +3,7 @@
 <p align="center">Prepare for liftoff as you explore the cosmos of my coding creations and dive into a galaxy of groundbreaking projects! Get ready to be starstruck as you witness the fusion of innovation and passion, powering up your developer journey. Let's embark on this interstellar adventure together, and may the source be with you! ✨🚀👩‍💻👨‍💻✨ </p>
 
 <h1 align="center">Hi 👋, I'm Dozie</h1>
-<h3 align="center">A passionate backend and blockchain developer based in Nigeria</h3>
+<h3 align="center">A Senior Software Engineer with a penchant for transforming caffeine into code</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doziestar&label=Profile%20views&color=0e75b6&style=flat&border_radius=15" alt="doziestar" /> </p>
 
